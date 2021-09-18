@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**hello world**
+_thanks for this knowledge_
+ 
+ __hello world__
+ *how are you*
